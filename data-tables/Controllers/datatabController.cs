@@ -37,6 +37,10 @@ namespace data_tables.Controllers
                 return Json(new { data = billsval }, JsonRequestBehavior.AllowGet);
             }
 
+
+            // eakhanath singh
+
+
         }
         public ActionResult salespage()
         {
