@@ -16,7 +16,7 @@ namespace data_tables.Controllers
         }
 
 
-        // GET: datatab fbgcnfgn
+        // GET: datatab fbgcnfgn mn jknjnjkl
         public ActionResult orderslist()
         {
             using (miniprojectsEntities datamod = new miniprojectsEntities())
